@@ -1,4 +1,4 @@
-# Prompt-Based-Chatbot-for-CSV-Data
+# Prompt-Based-Data Analysis and Visualization Chatbot-for-CSV-Data
 
 - This Chatbot is a streamlit Web app that performs data analysis and data visualization with simple chat and conversations. The basic idea behind the app is to translate the user text inputs into dataframe
   queries using Large language model (LLM), facilitated by PandasAI, and display the results through an interactive Streamlit web app.
